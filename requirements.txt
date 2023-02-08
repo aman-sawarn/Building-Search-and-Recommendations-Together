@@ -1,0 +1,4 @@
+# elastic-transport
+elasticsearch
+pandas
+# tensorflow
